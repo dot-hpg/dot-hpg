@@ -26,7 +26,7 @@ I am a passionate Data Analyst focused on transforming raw data into meaningful 
 
 Explore my projects categorized by tools and technologies:
 
-🔹 SQL Projects
+🔹 [SQL Projects](https://github.com/dot-hpg/E-commerce-Trends-and-Customer-Behavior)
 
 🔹 Python Projects
 
