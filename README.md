@@ -5,7 +5,9 @@ Hi! I'm Guntuku Hari Prasad 👋
 I am a passionate Data Analyst focused on transforming raw data into meaningful insights that drive smarter business decisions. I enjoy working at the intersection of analytics, problem-solving, and storytelling—turning complex datasets into clear, actionable outcomes. My work centers around exploratory data analysis, statistical modeling, performance reporting, and business intelligence, with a strong commitment to data-driven decision-making. I thrive in environments where analytics fuels measurable impact and strategic growth.
 
 
+
 🔹 About Me
+
 
 📊 Data Analyst specializing in data cleaning, analysis, and visualization
 
@@ -20,6 +22,8 @@ I am a passionate Data Analyst focused on transforming raw data into meaningful 
 
 
 📌 Projects
+
+
 Explore my projects categorized by tools and technologies:
 
 🔹 SQL Projects
@@ -33,6 +37,8 @@ Explore my projects categorized by tools and technologies:
 
 
 💡 Skills
+
+
 🔹 Programming - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 🔹 Databases - SQL (MySQL, PostgreSQL, Google BigQuery)
@@ -44,6 +50,7 @@ Explore my projects categorized by tools and technologies:
 
 
 📞 Contact Me
+
 
 📩 Email: connect.hpg@gmail.com
 
