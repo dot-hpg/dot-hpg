@@ -28,9 +28,9 @@ Explore my projects categorized by tools and technologies:
 
 🔹 [SQL Projects](https://github.com/dot-hpg/E-commerce-Trends-and-Customer-Behavior)
 
-🔹 Python Projects
+🔹 [Python Projects](https://github.com/dot-hpg/Projects#python)
 
-🔹 Tableau Dashboards
+🔹 [Tableau Dashboards](https://github.com/dot-hpg/Projects#tableau)
 
 🔹 Power BI Reports
 
