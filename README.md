@@ -32,7 +32,7 @@ Explore my projects categorized by tools and technologies:
 
 🔹 [Tableau Dashboards](https://github.com/dot-hpg/Projects#tableau)
 
-🔹 Power BI Reports
+🔹 [Power BI Reports]
 
 
 
