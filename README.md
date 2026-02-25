@@ -30,7 +30,7 @@ Explore my projects categorized by tools and technologies:
 
 🔹 [Python Projects](https://github.com/dot-hpg/Projects#python)
 
-🔹 [Tableau Dashboards](https://github.com/dot-hpg/Projects#tableau)
+🔹 [Tableau Projects](https://github.com/dot-hpg/tableau-projects-data-analysis)
 
 🔹 [Power BI Reports]
 
