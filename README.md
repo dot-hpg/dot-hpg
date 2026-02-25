@@ -34,6 +34,8 @@ Explore my projects categorized by tools and technologies:
 
 🔹 [Power BI Reports](https://github.com/dot-hpg/power-BI-projects-data-analysis)
 
+🔹 [Research Projects](https://github.com/dot-hpg/Projects/blob/main/README.md#Research)
+
 
 
 💡 Skills
