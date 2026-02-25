@@ -53,7 +53,3 @@ Explore my projects categorized by tools and technologies:
 
 
 📩 Email: connect.hpg@gmail.com
-
-🔗 LinkedIn: (Add your LinkedIn profile link here)
-
-💻 GitHub: (Add your GitHub profile link here)
