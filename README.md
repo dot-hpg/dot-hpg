@@ -32,7 +32,7 @@ Explore my projects categorized by tools and technologies:
 
 🔹 [Tableau Projects](https://github.com/dot-hpg/tableau-projects-data-analysis)
 
-🔹 [Power BI Reports]
+🔹 [Power BI Reports](https://github.com/dot-hpg/power-BI-projects-data-analysis)
 
 
 
