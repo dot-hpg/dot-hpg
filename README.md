@@ -36,6 +36,7 @@ Explore my projects categorized by tools and technologies:
 
 🔹 [Research Projects](https://github.com/dot-hpg/Projects/blob/main/README.md#Research)
 
+🔹 [Machine Learning Projects](https://github.com/dot-hpg/machine-learning-100)
 
 
 💡 Skills
