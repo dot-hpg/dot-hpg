@@ -38,6 +38,8 @@ Explore my projects categorized by tools and technologies:
 
 🔹 [Machine Learning Projects](https://github.com/dot-hpg/machine-learning-100)
 
+🔹 [Time Series Projects](https://github.com/dot-hpg/time-series-100)
+
 
 💡 Skills
 
