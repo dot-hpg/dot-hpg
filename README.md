@@ -40,6 +40,7 @@ Explore my projects categorized by tools and technologies:
 
 🔹 [Time Series Projects](https://github.com/dot-hpg/time-series-100)
 
+🔹 [React](https://github.com/dot-hpg/react-100)
 
 💡 Skills
 
